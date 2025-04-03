@@ -959,6 +959,7 @@ chebi	CHEBI:10100	zafirlukast	skos:exactMatch	mesh	C062735	zafirlukast	semapv:Ma
 chebi	CHEBI:10102	zaleplon	skos:exactMatch	mesh	C085665	zaleplon	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 chebi	CHEBI:101064	Ro 48-8071	skos:exactMatch	mesh	C105726	Ro 48-8071	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 chebi	CHEBI:10109	Zexbrevin B	skos:exactMatch	mesh	C010647	zexbrevin B	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
+chebi	CHEBI:101096	ethoxzolamide	skos:narrowMatch	mesh	C523270	6-ethoxybenzothiazole-2-sulfonamide	semapv:MappingCuration	orcid:0009-0009-1446-3819	semapv:LexicalMatching	generate_chebi_mesh_mappings.py	0.95
 chebi	CHEBI:10112	zileuton	skos:exactMatch	mesh	C063449	zileuton	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 chebi	CHEBI:10115	zingiberene	skos:exactMatch	mesh	C477983	zingiberene	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 chebi	CHEBI:10116	Zinnimidine	skos:exactMatch	mesh	C504969	zinnimidine	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
@@ -984,6 +985,7 @@ chebi	CHEBI:10319	1-naphthol	skos:exactMatch	mesh	C029350	1-naphthol	semapv:Manu
 chebi	CHEBI:10324	alpha-peltatin	skos:exactMatch	mesh	C049798	alpha-peltatin	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 chebi	CHEBI:10333	alpha-Spinasterol	skos:exactMatch	mesh	C031312	spinasterol	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 chebi	CHEBI:10352	beta-amyrin	skos:exactMatch	mesh	C036380	beta-amyrin	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
+chebi	CHEBI:10357	(-)-beta-caryophyllene	skos:broadMatch	mesh	C024714	caryophyllene	semapv:MappingCuration	orcid:0009-0009-1446-3819	semapv:LexicalMatching	https://github.com/indralab/panacea_indra/blob/master/panacea_indra/make_ctd_tests.py	0.9
 chebi	CHEBI:104020	1-(2-methoxyphenyl)piperazine	skos:exactMatch	mesh	C040083	1-(2-methoxyphenyl)piperazine	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 chebi	CHEBI:10423	oleandrose	skos:exactMatch	mesh	C035441	oleandrose	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 chebi	CHEBI:104237	4-phenyl-1-(4-phenylbutyl)piperidine	skos:exactMatch	mesh	C094850	4-phenyl-1-(4-phenylbutyl)piperidine	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
