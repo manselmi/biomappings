@@ -2320,6 +2320,9 @@ chebi	CHEBI:177858	gosogliptin	skos:exactMatch	mesh	C558848	gosogliptin	semapv:M
 chebi	CHEBI:178144	Clitocine	skos:exactMatch	mesh	C055433	clitocine	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 chebi	CHEBI:178161	Mangostenol	skos:exactMatch	mesh	C461720	mangostenol	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 chebi	CHEBI:178686	N,N,N-trimethyl-sphingosine	skos:exactMatch	mesh	C071600	N,N,N-trimethylsphingosine	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
+chebi	CHEBI:179326	12-Methyl-13-tridecanolide	skos:exactMatch	mesh	C583578	12-methyl-13-tridecanolide	semapv:MappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	generate_chebi_mesh_mappings.py	0.95
+chebi	CHEBI:179370	Entadamide A	skos:exactMatch	mesh	C061600	entadamide A	semapv:MappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	generate_chebi_mesh_mappings.py	0.95
+chebi	CHEBI:179443	1,2,6-Hexanetriol	skos:exactMatch	mesh	C400265	1,2,6-hexanetriol	semapv:MappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	generate_chebi_mesh_mappings.py	0.95
 chebi	CHEBI:17968	butyrate	skos:exactMatch	mesh	D002087	Butyrates	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 chebi	CHEBI:180160	Uvangoletin	skos:exactMatch	mesh	C000611553	uvangoletin	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 chebi	CHEBI:180404	Isoegomaketone	skos:exactMatch	mesh	C568138	isoegomaketone	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
