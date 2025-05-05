@@ -3783,6 +3783,7 @@ ido	0000649	amebiasis	skos:exactMatch	doid	DOID:9181	amebiasis	semapv:ManualMapp
 ido	0001374	epitope role	skos:exactMatch	chebi	CHEBI:53000	epitope	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	mira	0.5555555555555556
 ido	0001377	pathogen surveillance	skos:exactMatch	vsmo	0001959	pathogen surveillance	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 ido	0001378	vector surveillance	skos:exactMatch	vsmo	0000169	vector surveillance	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
+idomal	0000002	quality	skos:exactMatch	bfo	0000019	quality	semapv:MappingCuration	orcid:0009-0009-1446-3819	semapv:LexicalMatching	mira	0.7777777777777778
 idomal	0000008	contagiousness	skos:exactMatch	ido	0000458	contagiousness	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 idomal	0000024	immunodeficiency	skos:exactMatch	hp	HP:0002721	Immunodeficiency	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	mira	0.7623170480313337
 idomal	0000043	toxin	skos:exactMatch	chebi	CHEBI:27026	toxin	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
@@ -3811,6 +3812,7 @@ idomal	0000302	zygote stage	skos:exactMatch	uberon	UBERON:0000106	zygote stage	s
 idomal	0000378	macrophage	skos:exactMatch	cl	CL:0000235	macrophage	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 idomal	0000398	shivering	skos:exactMatch	hp	HP:0025144	Shivering	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	mira	0.7623170480313337
 idomal	0000411	entomological inoculation rate	skos:exactMatch	vsmo	0000112	entomological inoculation rate	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
+idomal	0000427	site	skos:exactMatch	bfo	0000029	site	semapv:MappingCuration	orcid:0009-0009-1446-3819	semapv:LexicalMatching	mira	0.7777777777777778
 idomal	0000428	measure relating to aggregate of arthropods	skos:exactMatch	vsmo	0000264	measure relating to aggregate of arthropods	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 idomal	0000430	measure relating to aggregate of vertebrates	skos:exactMatch	vsmo	0002028	measure relating to aggregate of vertebrates	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 idomal	0000431	abundance of arthropods per host	skos:exactMatch	vsmo	0000078	abundance of arthropods per host	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
