@@ -6740,6 +6740,8 @@ mesh	D000080345	Familial Exudative Vitreoretinopathies	skos:exactMatch	doid	DOID
 mesh	D000080362	Stargardt Disease	skos:exactMatch	doid	DOID:0050817	Stargardt disease	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mesh	D000080485	Sudden Unexpected Death in Epilepsy	skos:exactMatch	hp	HP:0033258	Sudden unexpected death in epilepsy	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	generate_hp_mesh_mappings.py	0.9
 mesh	D000080549	Autophagic Cell Death	skos:exactMatch	go	GO:0048102	autophagic cell death	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
+mesh	D000080550	Macroautophagy	skos:exactMatch	go	GO:0016236	macroautophagy	semapv:MappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	https://github.com/biomappings/biomappings/blob/4324c1/scripts/import_gilda_mappings.py	0.95
+mesh	D000080551	Microautophagy	skos:exactMatch	go	GO:0016237	microautophagy	semapv:MappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	https://github.com/biomappings/biomappings/blob/4324c1/scripts/import_gilda_mappings.py	0.95
 mesh	D000080642	Chaperone-Mediated Autophagy	skos:exactMatch	go	GO:0061684	chaperone-mediated autophagy	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mesh	D000080874	Synucleinopathies	skos:exactMatch	doid	DOID:0050890	synucleinopathy	semapv:ManualMappingCuration	orcid:0000-0003-1307-2508			
 mesh	D000080883	Shoulder Dystocia	skos:exactMatch	hp	HP:0011413	Shoulder dystocia	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	generate_hp_mesh_mappings.py	0.9
@@ -6757,6 +6759,7 @@ mesh	D000082903	Aortico-Ventricular Tunnel	skos:exactMatch	hp	HP:0011627	Aorto-v
 mesh	D000083402	Persistent Left Superior Vena Cava	skos:exactMatch	hp	HP:0005301	Persistent left superior vena cava	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	generate_hp_mesh_mappings.py	0.9
 mesh	D000086	Acetazolamide	skos:exactMatch	chebi	CHEBI:27690	acetazolamide	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mesh	D000086382	COVID-19	skos:exactMatch	doid	DOID:0080600	COVID-19	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
+mesh	D000087002	Viral Transcription	skos:exactMatch	go	GO:0019083	viral transcription	semapv:MappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	https://github.com/biomappings/biomappings/blob/4324c1/scripts/import_gilda_mappings.py	0.95
 mesh	D000089083	Body Odor	skos:exactMatch	hp	HP:0500001	Body odor	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	generate_hp_mesh_mappings.py	0.9
 mesh	D000092	Acetohexamide	skos:exactMatch	chebi	CHEBI:28052	acetohexamide	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mesh	D000093	Acetoin	skos:exactMatch	chebi	CHEBI:15688	acetoin	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
