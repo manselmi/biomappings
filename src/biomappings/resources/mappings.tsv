@@ -3854,12 +3854,16 @@ idomal	0001109	SERA-5	skos:exactMatch	vo	0011210	SERA-5	semapv:ManualMappingCura
 idomal	0001115	EBA-175	skos:exactMatch	vo	0012382	eba-175	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 idomal	0001145	MSP-3	skos:exactMatch	vo	0011220	MSP3	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	mira	0.7775716347144919
 idomal	0001150	MSP-8	skos:exactMatch	vo	0011221	MSP8	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	mira	0.7775716347144919
+idomal	0001219	monkey	skos:narrowMatch	ncbitaxon	9479	Platyrrhini	semapv:MappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	mira	0.5555555555555556
 idomal	0001228	Plasmodium knowlesi	skos:exactMatch	vsmo	0001269	Plasmodium knowlesi	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 idomal	0001229	Plasmodium berghei	skos:exactMatch	ncbitaxon	5821	Plasmodium berghei	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 idomal	0001230	Plasmodium gallinaceum	skos:exactMatch	vsmo	0001253	Plasmodium gallinaceum	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 idomal	0001231	Plasmodium yoelii	skos:exactMatch	ncbitaxon	5861	Plasmodium yoelii	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 idomal	0001254	population	skos:exactMatch	obi	OBI:0000181	population	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	mira	0.7777777777777778
 idomal	0001254	population	skos:exactMatch	pco	0000001	population	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	mira	0.7777777777777778
+idomal	0001272	nematode	skos:exactMatch	ncbitaxon	6231	Nematoda	semapv:MappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	mira	0.5555555555555556
+idomal	0001275	fish	skos:narrowMatch	ncbitaxon	117565	Myxini	semapv:MappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	mira	0.5555555555555556
+idomal	0001275	fish	skos:narrowMatch	ncbitaxon	7898	Actinopterygii	semapv:MappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	mira	0.5555555555555556
 idomal	0001288	ovalocytosis	skos:exactMatch	doid	DOID:2373	hereditary elliptocytosis	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	mira	0.5555555555555556
 idomal	0001288	ovalocytosis	skos:exactMatch	hp	HP:0004445	Elliptocytosis	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	mira	0.5400948258091115
 idomal	0001295	vector competence	skos:exactMatch	vsmo	0000108	vector competence	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	mira	0.7777777777777778
