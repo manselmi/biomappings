@@ -6761,6 +6761,7 @@ mesh	D000089083	Body Odor	skos:exactMatch	hp	HP:0500001	Body odor	semapv:ManualM
 mesh	D000092	Acetohexamide	skos:exactMatch	chebi	CHEBI:28052	acetohexamide	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mesh	D000093	Acetoin	skos:exactMatch	chebi	CHEBI:15688	acetoin	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mesh	D000096	Acetone	skos:exactMatch	chebi	CHEBI:15347	acetone	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
+mesh	D000096482	Angiogenesis	skos:exactMatch	go	GO:0001525	angiogenesis	semapv:MappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	https://github.com/biomappings/biomappings/blob/4324c1/scripts/import_gilda_mappings.py	0.95
 mesh	D000098	Acetophenones	skos:exactMatch	chebi	CHEBI:22187	acetophenones	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mesh	D000100	Acetrizoic Acid	skos:exactMatch	chebi	CHEBI:34521	Acetrizoic acid	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mesh	D000105	Acetyl Coenzyme A	skos:exactMatch	chebi	CHEBI:15351	acetyl-CoA	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
