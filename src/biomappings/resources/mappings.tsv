@@ -4588,6 +4588,7 @@ mesh	C000597117	LB-100	skos:exactMatch	ncit	C106430	Protein Phosphatase 2A Inhib
 mesh	C000597312	Gefapixant	skos:exactMatch	ncit	C166945	Gefapixant	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mesh	C000597465	CEP-9722	skos:exactMatch	ncit	C84880	PARP Inhibitor CEP-9722	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 mesh	C000598645	Spheroid body myopathy	skos:exactMatch	doid	DOID:0080091	spheroid body myopathy	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
+mesh	C000598831	phenazine	skos:narrowMatch	ncit	C47667	Phendimetrazine Tartrate	semapv:MappingCuration	orcid:0009-0009-1446-3819	semapv:LexicalMatching	https://github.com/biomappings/biomappings/blob/a80ed2/scripts/import_gilda_mappings.py	0.95
 mesh	C000599766	Otilimab	skos:exactMatch	ncit	C170271	Otilimab	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mesh	C000600094	Fletikumab	skos:exactMatch	ncit	C171836	Fletikumab	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mesh	C000602642	PLX8394	skos:exactMatch	ncit	C113330	BRAF Inhibitor PLX8394	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
