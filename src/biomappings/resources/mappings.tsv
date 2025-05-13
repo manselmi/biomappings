@@ -3783,6 +3783,7 @@ ido	0000649	amebiasis	skos:exactMatch	doid	DOID:9181	amebiasis	semapv:ManualMapp
 ido	0001374	epitope role	skos:exactMatch	chebi	CHEBI:53000	epitope	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	mira	0.5555555555555556
 ido	0001377	pathogen surveillance	skos:exactMatch	vsmo	0001959	pathogen surveillance	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 ido	0001378	vector surveillance	skos:exactMatch	vsmo	0000169	vector surveillance	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
+idocovid19	0001287	SARS-COV-2 Infection	skos:exactMatch	ncit	C171133	COVID-19 Infection	semapv:MappingCuration	orcid:0009-0009-1446-3819	semapv:LexicalMatching	mira	0.5301999587713874
 idomal	0000008	contagiousness	skos:exactMatch	ido	0000458	contagiousness	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 idomal	0000024	immunodeficiency	skos:exactMatch	hp	HP:0002721	Immunodeficiency	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346	semapv:LexicalMatching	mira	0.7623170480313337
 idomal	0000043	toxin	skos:exactMatch	chebi	CHEBI:27026	toxin	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
