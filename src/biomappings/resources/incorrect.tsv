@@ -420,6 +420,7 @@ envo	ENVO:03501219	window	skos:exactMatch	ncbitaxon	183654	Scophthalmus aquosus	
 hp	HP:0000001	All	skos:exactMatch	ncbitaxon	1	root	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	kestrel-mappings	0.762
 hp	HP:0000039	Epispadias	skos:exactMatch	ncbitaxon	2865123	Epispadias	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	kestrel-mappings	0.778
 ido	0000636	sepsis	skos:exactMatch	ncbitaxon	137507	Sepsis	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	kestrel-mappings	0.762
+idocovid19	0001287	SARS-COV-2 Infection	skos:exactMatch	ncit	C171133	COVID-19 Infection	semapv:MappingCuration	orcid:0009-0009-1446-3819	semapv:LexicalMatching	mira	0.5301999587713874
 idomal	0000222	enzyme-linked immunosorbent assay	skos:exactMatch	maxo	0000610	clinical ELISA testing	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	mira	0.5555555555555556
 idomal	0001019	mouse	skos:exactMatch	ncbitaxon	10090	Mus musculus	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	mira	0.5555555555555556
 idomal	0001083	Trap	skos:exactMatch	pr	PR:000001937	tartrate-resistant acid phosphatase type 5	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	semapv:LexicalMatching	mira	0.5555555555555556
