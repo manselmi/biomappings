@@ -1,7 +1,4 @@
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	confidence	mapping_tool
-chebi:101096	ethoxzolamide	skos:exactMatch	mesh:C523270	6-ethoxybenzothiazole-2-sulfonamide	semapv:LexicalMatching	0.95	generate_chebi_mesh_mappings.py
-chebi:10357	(-)-beta-caryophyllene	skos:exactMatch	mesh:C024714	caryophyllene	semapv:LexicalMatching	0.9	https://github.com/indralab/panacea_indra/blob/master/panacea_indra/make_ctd_tests.py
-chebi:104234	1-(1,2-diphenylethyl)piperidine	skos:exactMatch	mesh:C000599677	diphenidine	semapv:LexicalMatching	0.95	generate_chebi_mesh_mappings.py
 chebi:10556	(-)-trans-epsilon-viniferin	skos:exactMatch	mesh:C091891	epsilon-viniferin	semapv:LexicalMatching	0.95	generate_chebi_mesh_mappings.py
 chebi:111513	(beta-D-glucopyranosyloxymethyl)deoxyuridine	skos:exactMatch	mesh:C084880	5-((glucopyranosyloxy)methyl)uracil	semapv:LexicalMatching	0.95	generate_chebi_mesh_mappings.py
 chebi:12060	5'-deoxy-5'-fluoroadenosine	skos:exactMatch	mesh:C514925	5'-fluoro-5'-deoxyadenosine	semapv:LexicalMatching	0.95	generate_chebi_mesh_mappings.py

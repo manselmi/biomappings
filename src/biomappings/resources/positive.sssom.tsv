@@ -959,6 +959,7 @@ chebi:10100	zafirlukast	skos:exactMatch	mesh:C062735	zafirlukast	semapv:ManualMa
 chebi:10102	zaleplon	skos:exactMatch	mesh:C085665	zaleplon	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:101064	Ro 48-8071	skos:exactMatch	mesh:C105726	Ro 48-8071	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:10109	Zexbrevin B	skos:exactMatch	mesh:C010647	zexbrevin B	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
+chebi:101096	ethoxzolamide	skos:narrowMatch	mesh:C523270	6-ethoxybenzothiazole-2-sulfonamide	semapv:ManualMappingCuration	orcid:0009-0009-1446-3819	generate_chebi_mesh_mappings.py	
 chebi:10112	zileuton	skos:exactMatch	mesh:C063449	zileuton	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:10115	zingiberene	skos:exactMatch	mesh:C477983	zingiberene	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:10116	Zinnimidine	skos:exactMatch	mesh:C504969	zinnimidine	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
@@ -984,8 +985,10 @@ chebi:10319	1-naphthol	skos:exactMatch	mesh:C029350	1-naphthol	semapv:ManualMapp
 chebi:10324	alpha-peltatin	skos:exactMatch	mesh:C049798	alpha-peltatin	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:10333	alpha-Spinasterol	skos:exactMatch	mesh:C031312	spinasterol	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370		
 chebi:10352	beta-amyrin	skos:exactMatch	mesh:C036380	beta-amyrin	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
+chebi:10357	(-)-beta-caryophyllene	skos:broadMatch	mesh:C024714	caryophyllene	semapv:ManualMappingCuration	orcid:0009-0009-1446-3819	https://github.com/indralab/panacea_indra/blob/master/panacea_indra/make_ctd_tests.py	
 chebi:104020	1-(2-methoxyphenyl)piperazine	skos:exactMatch	mesh:C040083	1-(2-methoxyphenyl)piperazine	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:10423	oleandrose	skos:exactMatch	mesh:C035441	oleandrose	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
+chebi:104234	1-(1,2-diphenylethyl)piperidine	skos:broadMatch	mesh:C000599677	diphenidine	semapv:ManualMappingCuration	orcid:0009-0009-1446-3819	generate_chebi_mesh_mappings.py	
 chebi:104237	4-phenyl-1-(4-phenylbutyl)piperidine	skos:exactMatch	mesh:C094850	4-phenyl-1-(4-phenylbutyl)piperidine	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:10432	2-naphthol	skos:exactMatch	mesh:C028405	2-naphthol	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:10436	beta-ocimene	skos:exactMatch	mesh:C443996	beta-ocimene	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
