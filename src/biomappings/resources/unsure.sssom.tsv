@@ -27,6 +27,7 @@ ccle:P116	P116	skos:exactMatch	cellosaurus:JU06	JHU116i	semapv:ManualMappingCura
 ccle:TE4_OESOPHAGUS	TE-4	skos:exactMatch	cellosaurus:F784	TE4 [Mouse hybridoma]	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370		
 cemo:distribution	distribution	skos:exactMatch	pato:0000060	spatial pattern	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	mira	
 cemo:growth_rate	growth rate	skos:exactMatch	ncit:C185276	Biospecimen Growth Rate	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	mira	
+chebi:101096	ethoxzolamide	skos:exactMatch	mesh:C523270	6-ethoxybenzothiazole-2-sulfonamide	semapv:ManualMappingCuration	orcid:0009-0009-1446-3819	generate_chebi_mesh_mappings.py	
 chebi:61700	(+)-valencene	skos:exactMatch	mesh:C506706	valencene	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370		
 chebi:68540	teriflunomide	skos:exactMatch	mesh:C072876	A 771726	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	https://github.com/indralab/panacea_indra/blob/master/panacea_indra/make_ctd_tests.py	
 chebi:8416	Pristimerin	skos:exactMatch	mesh:C009043	pristimerin	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	generate_chebi_mesh_mappings.py	
