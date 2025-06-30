@@ -99,6 +99,7 @@ ccle:TC71_BONE	TC-71	skos:exactMatch	cellosaurus:S882	TC71	semapv:ManualMappingC
 ccle:TE15_OESOPHAGUS	TE-15	skos:exactMatch	cellosaurus:F780	TE15	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370		Not
 ccle:WM239A	WM239A	skos:exactMatch	cellosaurus:RN56	WM239B	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370		Not
 chebi:10057	9H-xanthene	skos:exactMatch	mesh:C002563	xanthan gum	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370		Not
+chebi:101096	ethoxzolamide	skos:exactMatch	mesh:C523270	6-ethoxybenzothiazole-2-sulfonamide	semapv:ManualMappingCuration	orcid:0009-0009-1446-3819	generate_chebi_mesh_mappings.py	Not
 chebi:134126	picrotoxin	skos:exactMatch	mesh:D031605	Cocculus	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370	generate_chebi_mesh_mappings.py	Not
 chebi:135025	rimazolium	skos:exactMatch	mesh:C100296	probon	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		Not
 chebi:135083	cibenzoline	skos:exactMatch	mesh:C032151	cifenline	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		Not

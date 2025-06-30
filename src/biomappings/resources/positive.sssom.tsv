@@ -986,6 +986,7 @@ chebi:10333	alpha-Spinasterol	skos:exactMatch	mesh:C031312	spinasterol	semapv:Ma
 chebi:10352	beta-amyrin	skos:exactMatch	mesh:C036380	beta-amyrin	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:104020	1-(2-methoxyphenyl)piperazine	skos:exactMatch	mesh:C040083	1-(2-methoxyphenyl)piperazine	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:10423	oleandrose	skos:exactMatch	mesh:C035441	oleandrose	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
+chebi:104234	1-(1,2-diphenylethyl)piperidine	skos:broadMatch	mesh:C000599677	diphenidine	semapv:ManualMappingCuration	orcid:0009-0009-1446-3819	generate_chebi_mesh_mappings.py	
 chebi:104237	4-phenyl-1-(4-phenylbutyl)piperidine	skos:exactMatch	mesh:C094850	4-phenyl-1-(4-phenylbutyl)piperidine	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:10432	2-naphthol	skos:exactMatch	mesh:C028405	2-naphthol	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:10436	beta-ocimene	skos:exactMatch	mesh:C443996	beta-ocimene	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
