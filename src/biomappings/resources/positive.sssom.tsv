@@ -1035,6 +1035,7 @@ chebi:131434	5-hydroxyhexanoic acid	skos:exactMatch	mesh:C016502	5-hydroxyhexano
 chebi:131496	BW 245C	skos:exactMatch	mesh:C030669	BW 245C	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:131532	pyridoxamine dihydrochloride	skos:exactMatch	mesh:C570561	pyridoxamine dihydrochloride	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:131597	fluensulfone	skos:exactMatch	mesh:C571996	fluensulfone	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
+chebi:131604	foo	skos:exactMatch	mesh:C535047	bar	semapv:ManualMappingCuration	orcid:0009-0009-1446-3819		
 chebi:131631	biliatresone	skos:exactMatch	mesh:C000608133	biliatresone	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:131712	shinorine	skos:exactMatch	mesh:C494891	shinorine	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
 chebi:131715	rosoxacin	skos:exactMatch	mesh:C021083	rosoxacin	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346		
